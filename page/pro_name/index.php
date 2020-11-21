@@ -8,7 +8,7 @@
     <div class="bunner wow fadeIn js-bunder" data-wow-delay = "3.5s">
       <div class="bunner-content">
         <a href="">
-          <img src="/<?php echo DIRNAME; ?>/assets/images/top/burn.svg" alt="">
+          <img src="<?php echo DIRNAME; ?>/assets/images/top/burn.svg" alt="">
           <div class="d-flex">
             <small class="wow zoomIn" data-wow-delay = "3.8s">広</small> 
             <small class="wow zoomIn" data-wow-delay = "4s">告</small>
@@ -20,7 +20,7 @@
             <small class="wow zoomIn" data-wow-delay = "5.2s">内</small>
           </div>
         </a>
-        <span class="wow bounceIn" data-wow-delay = "5.5s"><img style="width: auto;" src="/<?php echo DIRNAME; ?>/assets/images/top/arrow-right.svg" alt=""></span>
+        <span class="wow bounceIn" data-wow-delay = "5.5s"><img style="width: auto;" src="<?php echo DIRNAME; ?>/assets/images/top/arrow-right.svg" alt=""></span>
       </div>
     </div>
     <div class="slo-img">
@@ -32,12 +32,12 @@
       </div> <!-- end slogan -->
       <div class="big-img">
         <div class="banner-top">
-          <img src="/<?php echo DIRNAME; ?>/assets/images/top/banner.jpg" alt="">
+          <img src="<?php echo DIRNAME; ?>/assets/images/top/banner.jpg" alt="">
           <ul>
-            <li><img class="wow bounceIn" data-wow-delay = "2.6s" src="/<?php echo DIRNAME; ?>/assets/images/top/pe-01.svg" alt=""></li>
-            <li><img class="wow rubberBand" data-wow-delay="3s" src="/<?php echo DIRNAME; ?>/assets/images/top/car.png" alt=""></li>
-            <li><img class="wow bounceIn" data-wow-delay = "2.6s" src="/<?php echo DIRNAME; ?>/assets/images/top/pe-03.svg" alt=""></li>
-            <li><img class="wow bounceIn" data-wow-delay = "2.6s" src="/<?php echo DIRNAME; ?>/assets/images/top/pe-02.svg" alt=""></li>
+            <li><img class="wow bounceIn" data-wow-delay = "2.6s" src="<?php echo DIRNAME; ?>/assets/images/top/pe-01.svg" alt=""></li>
+            <li><img class="wow rubberBand" data-wow-delay="3s" src="<?php echo DIRNAME; ?>/assets/images/top/car.png" alt=""></li>
+            <li><img class="wow bounceIn" data-wow-delay = "2.6s" src="<?php echo DIRNAME; ?>/assets/images/top/pe-03.svg" alt=""></li>
+            <li><img class="wow bounceIn" data-wow-delay = "2.6s" src="<?php echo DIRNAME; ?>/assets/images/top/pe-02.svg" alt=""></li>
           </ul>
         </div>
       </div> <!-- end box img -->
@@ -52,7 +52,7 @@
         <div class="row w-m-3">
           <div class="col-md-4 w-p-3">
             <div class="ser-list wow fadeIn">
-              <img class="wow bounceIn" data-wow-delay = "0.2s" src="/<?php echo DIRNAME; ?>/assets/images/top/ser-01.svg" alt="">
+              <img class="wow bounceIn" data-wow-delay = "0.2s" src="<?php echo DIRNAME; ?>/assets/images/top/ser-01.svg" alt="">
               <div class="ser-inf wow fadeIn" data-wow-delay = "0.5s">
                 <h4>スマホで簡単手続き、<br> いつでもスタート！</h4>
                 <div class="desc">お持ちのクルマに規定サイズのステッカーが貼れれば、どなたでも参加可能！全ての手続きがスマホで完結するので簡単です。</div>
@@ -61,7 +61,7 @@
           </div>
           <div class="col-md-4 w-p-3">
             <div class="ser-list wow fadeIn">
-              <img class="wow bounceIn" data-wow-delay = "0.5s" src="/<?php echo DIRNAME; ?>/assets/images/top/ser-02.svg" alt="">
+              <img class="wow bounceIn" data-wow-delay = "0.5s" src="<?php echo DIRNAME; ?>/assets/images/top/ser-02.svg" alt="">
               <div class="ser-inf wow fadeIn" data-wow-delay = "0.8s">
                 <h4>広告ステッカーはご自身で<br>自由に選んで走行可能！</h4>
                 <div class="desc">一覧から、自分のクルマに貼るステッカーを選ぶことが可能です。３種類のプランから、報酬の上限額を選べます。</div>
@@ -70,7 +70,7 @@
           </div>
           <div class="col-md-4 w-p-3">
             <div class="ser-list wow fadeIn">
-              <img class="wow bounceIn" data-wow-delay = "0.8s" src="/<?php echo DIRNAME; ?>/assets/images/top/ser-03.svg" alt="">
+              <img class="wow bounceIn" data-wow-delay = "0.8s" src="<?php echo DIRNAME; ?>/assets/images/top/ser-03.svg" alt="">
               <div class="ser-inf wow fadeIn" data-wow-delay = "1s">
                 <h4>副業にならないので<br>安心して取り組める！</h4>
                 <div class="desc">副業には当たらないので、企業にお勤めの方も安心して取り組めます。ステッカーを貼ったら、安全運転を心がけましょう！</div>
@@ -82,7 +82,7 @@
       <a href="" class="btn-red m-auto"> サービスについて</a>
     </div> <!-- end container -->
     <div class="bg-car">
-      <img class="wow rubberBand" data-wow-delay ="1.2s" src="/<?php echo DIRNAME; ?>/assets/images/top/bg-car.svg" alt="">
+      <img class="wow rubberBand" data-wow-delay ="1.2s" src="<?php echo DIRNAME; ?>/assets/images/top/bg-car.svg" alt="">
     </div>
   </section>
   <section class="bg-white recruit-top">
@@ -93,9 +93,9 @@
       <div class="row w-m-3">
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.2s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-1.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-1.png" alt="">
               <h3 class="recruit-tit">
-                <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+                <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 梅田メトロビジョン
               </h3>
             </a>
@@ -104,9 +104,9 @@
         </div>
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.3s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-2.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-2.png" alt="">
               <h3 class="recruit-tit">
-                <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+                <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 名古屋市医師会
               </h3>
             </a>
@@ -114,9 +114,9 @@
         </div>
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.4s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-3.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-3.png" alt="">
               <h3 class="recruit-tit">
-                <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+                <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 キャリアトレック
               </h3>
             </a>
@@ -124,9 +124,9 @@
         </div>
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.5s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-4.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-4.png" alt="">
               <h3 class="recruit-tit">
-                <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+                <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 企業名
               </h3>
             </a>
@@ -134,9 +134,9 @@
         </div>
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.6s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-8.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-8.png" alt="">
               <h3 class="recruit-tit">
-                <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+                <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 横浜市観光情報
               </h3>
             </a>
@@ -144,9 +144,9 @@
         </div>
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.7s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-6.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-6.png" alt="">
               <h3 class="recruit-tit">
-                <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+                <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 広告タイトルが長い場合はこのように２行で表示します
               </h3>
             </a>
@@ -154,9 +154,9 @@
         </div>
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.8s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-6.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-6.png" alt="">
               <h3 class="recruit-tit">
-                <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+                <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 キャリアトレック
               </h3>
             </a>
@@ -164,9 +164,9 @@
         </div>
         <div class="col-md-3 col-6 w-p-3">
           <div class="recruit-list wow fadeIn" data-wow-delay="0.9s">
-            <a href=""><img src="/<?php echo DIRNAME; ?>/assets/images/top/ads-8.png" alt="">
+            <a href=""><img src="<?php echo DIRNAME; ?>/assets/images/top/ads-8.png" alt="">
               <h3 class="recruit-tit">
-              <img src="/<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
+              <img src="<?php echo DIRNAME; ?>/assets/images/top/yaru.svg">
                 ciatre
               </h3>
             </a>
@@ -244,19 +244,19 @@
               <li class="time wow fadeIn">2020.11.14</li>
               <li class="news-red wow fadeIn">お知らせ</li>
             </ul>
-            <a class="wow fadeIn" href="/<?php echo DIRNAME; ?>/assets/news/">システムメンテナンスのお知らせ <span class="pdf"></span></a>
+            <a class="wow fadeIn" href="<?php echo DIRNAME; ?>/assets/news/">システムメンテナンスのお知らせ <span class="pdf"></span></a>
           </div>
           <div class="news-info">
             <ul class="d-flex">
               <li class="time wow fadeIn">2020.11.14</li>
               <li class="news-red wow fadeIn">サービス</li>
             </ul>
-            <a class="wow fadeIn" href="/<?php echo DIRNAME; ?>/assets/news/">関西エリアでのサービスを開始しました。</a>
+            <a class="wow fadeIn" href="<?php echo DIRNAME; ?>/assets/news/">関西エリアでのサービスを開始しました。</a>
           </div>
         </div>
       </div>
     </div>
-    <div class="small-car wow fadeInRight" data-wow-duration="2s"><img class="wow rubberBand" data-wow-delay="2s" src="/<?php echo DIRNAME; ?>/assets/images/top/small-car.svg"></div>
+    <div class="small-car wow fadeInRight" data-wow-duration="2s"><img class="wow rubberBand" data-wow-delay="2s" src="<?php echo DIRNAME; ?>/assets/images/top/small-car.svg"></div>
   </section>
 </main>
 <!-- include footer --> 

@@ -14,13 +14,13 @@
 		<small>Copyright © 2020 MOVA All rights reserved.</small>
 	</section>
 </footer>
-<script type="text/javascript" src="/<?php echo DIRNAME; ?>/assets/js/lib/wow.min.js"></script>
+<script type="text/javascript" src="<?php echo DIRNAME; ?>/assets/js/lib/wow.min.js"></script>
 <script>
 	new WOW().init();
 </script>
-<script type="text/javascript" src="/<?php echo DIRNAME; ?>/assets/js/lib/bootstrap.min.js"></script>
-<script type="text/javascript" src="/<?php echo DIRNAME; ?>/assets/js/lib/jquery.matchHeight-min.js"></script>
-<script type="text/javascript" src="/<?php echo DIRNAME; ?>/assets/js/lib/slick.min.js"></script>
-<script type="text/javascript" src="/<?php echo DIRNAME; ?>/assets/js/private.js"></script>
+<script type="text/javascript" src="<?php echo DIRNAME; ?>/assets/js/lib/bootstrap.min.js"></script>
+<script type="text/javascript" src="<?php echo DIRNAME; ?>/assets/js/lib/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" src="<?php echo DIRNAME; ?>/assets/js/lib/slick.min.js"></script>
+<script type="text/javascript" src="<?php echo DIRNAME; ?>/assets/js/private.js"></script>
 </body>
 </html>
