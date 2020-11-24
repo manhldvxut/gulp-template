@@ -119,8 +119,5 @@ gulp.task(
                 done();
             }),
         );
-
-        // gulp.watch(['assets/**/*.ejs','templates/*.json'],
-        //     gulp.series('ejs'));
     }),
 );
