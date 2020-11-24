@@ -1,5 +1,5 @@
 <?php
-//下記のパス「demo」を変更
+//下記のパス「pro_name」を変更
   include_once $_SERVER['DOCUMENT_ROOT'].'/page/pro_name/assets/inc/config.php'; ?>
 <!-- include header --> 
 <?php include_once $_SERVER['DOCUMENT_ROOT'].'/'.DIRNAME.'/assets/inc/header.php'; ?>
